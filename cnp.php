@@ -22,7 +22,7 @@ if(strlen($cnp) == 13)
 	    echo 'An invalid';
 		$ok = false;
 	}
-	else if( intval($jj)<0 && intval($jj) < 53 )
+	else if( intval($jj)<1 && intval($jj) < 53 )
 	{
 	    echo 'Cod judet invalid';
 	    $ok = false;
