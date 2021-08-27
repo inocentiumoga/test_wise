@@ -1,5 +1,5 @@
 <?php
-// Your code here!
+
 $cnp = '1990915053957';
 $ok = true;
 
